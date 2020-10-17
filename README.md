@@ -1,4 +1,6 @@
 # hello-world
 just another world
 
-this is me, myself, and I \njust trying to live a normal and decent life
+this is me, myself, and I 
+
+just trying to live a normal and decent life
